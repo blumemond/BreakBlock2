@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{3A731743-3B33-A299-CFB8-32FB2694EC34}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BallScript.cs">
+    <Files>
+      <File FileName="Assets/BallScript.cs" Line="13" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3D_meiro" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a849ad22-d02e-4805-b11b-0d264f1deab2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
